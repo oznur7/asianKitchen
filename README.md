@@ -1,2 +1,2 @@
 # asianKitchen
-kodluyoruz ödev3
+kodluyoruz ödevi 3 - javascript
